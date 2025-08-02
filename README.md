@@ -21,3 +21,7 @@ Este projeto é uma aplicação simples desenvolvida com HTML, CSS e JavaScript 
 - IDE VSCode
 
 Vídeo:
+
+https://github.com/user-attachments/assets/8df86907-6284-47d0-a62c-d6ff7d611f15
+
+
